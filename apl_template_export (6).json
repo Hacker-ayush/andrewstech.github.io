@@ -1,0 +1,43 @@
+{
+    "document": {
+        "type": "APL",
+        "version": "1.1",
+        "settings": {},
+        "theme": "dark",
+        "import": [],
+        "resources": [],
+        "styles": {},
+        "onMount": [],
+        "graphics": {},
+        "commands": {},
+        "layouts": {},
+        "mainTemplate": {
+            "parameters": [
+                "payload"
+            ],
+            "items": [
+                {
+                    "type": "Container",
+                    "height": "100%",
+                    "width": "100%",
+                    "paddingTop": "16dp",
+                    "paddingLeft": "16dp",
+                    "paddingRight": "16dp",
+                    "paddingBottom": "16dp",
+                    "items": [
+                        {
+                            "type": "Video",
+                            "width": "300dp",
+                            "height": "200dp",
+                            "audioTrack": "foreground",
+                            "autoplay": true,
+                            "source": "{video_url}",
+                            "scale": "fill"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "datasources": {}
+}
