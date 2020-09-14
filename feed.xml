@@ -9,4 +9,31 @@
     </author>
     <id>https://andrewstech.me</id>
 
+    <entry>
+        <title>WELCOME BACK</title>
+        <author>
+            <name>andrew</name>
+        </author>
+        <link href="https://andrewstech.me/welcome-back.html"/>
+        <id>https://andrewstech.me/welcome-back.html</id>
+
+        <updated>2020-09-14T15:16:46+01:00</updated>
+            <summary>
+                <![CDATA[
+                     As some of you may have noticed the site has once again changed. We are now hosted on GitHub and located at our root domain. I will be posting new updates soon. In the meantime why don't you have a look at my current&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    As some of you may have noticed the site has once again changed. We are now hosted on GitHub and located at our root domain. I will be posting new updates soon. In the meantime why don't you have a look at my current project <a href="https://alpha-video.andrewstech.me/" target="_blank" rel="sponsored">(alpha-video)</a>. Or join me on <a href="https://discord.gg/Ye2a4UY" target="_blank" rel="ugc">Discord</a>. Stay creative and I will be posting soon.
+  </p>
+
+  <p>
+    Andrewstech
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
